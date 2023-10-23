@@ -20,7 +20,7 @@ timezone:
 
 title: M3Y # the main title
 
-tagline: Hacking Blog # it will display as the sub-title
+tagline: Cybersecurity Analyst # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   HTB Writeups & Hacking Content
@@ -76,7 +76,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://avatars.githubusercontent.com/u/83746823?v=4
+avatar: https://m3y.pythonanywhere.com/static/images/mei2.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
